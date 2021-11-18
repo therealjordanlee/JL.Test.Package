@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
-    <EmbedAllSources>true</EmbedAllSources>
+    <DebugType>embedded</DebugType>
     <RepositoryUrl>https://github.com/therealjordanlee/JL.Test.Package</RepositoryUrl>
     <PackageProjectUrl>https://github.com/therealjordanlee/JL.Test.Package</PackageProjectUrl>
   </PropertyGroup>
